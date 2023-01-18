@@ -13,6 +13,7 @@ Example manifest:
 <manifest>
     <project path="vendor/partner_gms" name="Exodusnick/android_vendor_partner_gms" remote="github" revision="main" />
 </manifest>
+
 ```
 
 Note: You do not need to set `CUSTOM_PACKAGES` for the packages to be included when building with [lineageos4microg/docker-lineage-cicd](https://github.com/lineageos4microg/docker-lineage-cicd).
