@@ -36,6 +36,9 @@ The included APKs are:
    * AuroraServices: a system / root application that integrates with the Aurora line of products
  * GrapheneOS packages (binaries sourced from [here](https://github.com/GrapheneOS/PdfViewer/releases))
    * PdfViewer: a simple Android PDF viewer based on pdf.js and content providers
+   * AppleWifiNlpBackend AppleWifiNlpBackend UnifiedNlp backend that uses Apple's service to resolve wifi locations.
+Location calculation is done onboard and wifi locations are cached to minimize data usage. [here](https://github.com/microg/AppleWifiNlpBackend)
+
 
 These are official unmodified prebuilt binaries, signed by the
 corresponding developers, except for:
