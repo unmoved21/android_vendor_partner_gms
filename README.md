@@ -34,9 +34,6 @@ The included APKs are:
    * AuroraDroid: an alternate to the FDroid app store
    * AuroraStore: an alternate to Google's Play Store
    * AuroraServices: a system / root application that integrates with the Aurora line of products
- * GrapheneOS packages (binaries sourced from [here](https://github.com/GrapheneOS/PdfViewer/releases))
-   * PdfViewer: a simple Android PDF viewer based on pdf.js and content providers
- 
 
 
 These are official unmodified prebuilt binaries, signed by the
