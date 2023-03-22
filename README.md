@@ -34,7 +34,8 @@ The included APKs are:
    * AuroraDroid: an alternate to the FDroid app store
    * AuroraStore: an alternate to Google's Play Store
    * AuroraServices: a system / root application that integrates with the Aurora line of products
-
+   
+NeoStore is not in ROM is used only for me 
 
 These are official unmodified prebuilt binaries, signed by the
 corresponding developers, except for:
